@@ -2,7 +2,7 @@ package club.chishazi.ecsservice.dto.result;
 
 /**
  * 分页结果
- * @author pis
+ * @author han
  */
 public class PageResult<T> {
 

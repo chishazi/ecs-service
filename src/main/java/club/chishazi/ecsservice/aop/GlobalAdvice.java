@@ -18,7 +18,7 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
 
 /**
  * controller接口全局处理
- * @author pis
+ * @author han
  */
 @RestControllerAdvice(basePackages = "club.chishazi.ecsservice.controller")
 public class GlobalAdvice implements ResponseBodyAdvice<Object> {

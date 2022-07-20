@@ -2,7 +2,7 @@ package club.chishazi.ecsservice.selfexception;
 
 /**
  * 可预知异常，主要用于返回错误信息及回滚事务
- * @author pis
+ * @author han
  */
 public class PredictableException extends RuntimeException {
     public PredictableException() {
