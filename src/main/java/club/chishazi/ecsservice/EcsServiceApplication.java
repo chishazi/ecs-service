@@ -8,6 +8,7 @@ public class EcsServiceApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(EcsServiceApplication.class, args);
+        //测试
     }
 
 }
